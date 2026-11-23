@@ -1,0 +1,6 @@
+{
+  "appId": "com.fablestudio.life",
+  "appName": "Fable Studio Life",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
